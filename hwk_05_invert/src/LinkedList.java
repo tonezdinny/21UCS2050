@@ -111,7 +111,7 @@ public class LinkedList {
     }
 
     // TODO: reverses the order of elements in the original list.  For example, if the original list is “1, 2, 3”, after calling invert the list should read “3, 2, 1”.
-    public void reverse() {
+    public void invert() {
 
     }
 }
